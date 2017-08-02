@@ -2,7 +2,7 @@
  * @author [KSH-Code]
  * @email [tjdgnsqn133@gmail.com]
  * @create date 2017-08-01 08:50:05
- * @modify date 2017-08-01 08:50:05
+ * @modify date 2017-08-02 08:47:47
  * @desc [Block 문]
 */
 /**
@@ -33,5 +33,6 @@ console.log(x)//2
 var y = 1
 {
     let y = 2
+    console.log(y)
 }
 console.log(y)

@@ -2,17 +2,24 @@
  * @author [KSH-Code]
  * @email [tjdgnsqn133@gmail.com]
  * @create date 2017-08-01 10:32:30
- * @modify date 2017-08-01 10:32:30
+ * @modify date 2017-08-02 08:47:50
  * @desc [예외 처리문]
 */
-
-throw "Error2"
-throw "42"
-throw true
-throw {
-    toString: function () {
-        return "I'm an object!"
+try {
+    throw "Error2"
+    throw "42"
+    throw true
+} catch (e) {
+    console.log(e)
+}
+try {
+    throw {
+        toString: function () {
+            return "I'm an object!"
+        }
     }
+} catch (e) {
+    console.log(e)
 }
 /**
  * 예외를 사용할 때 객체를 명시할 수 있다.
@@ -27,9 +34,9 @@ function UserException(message) {
 UserException.prototype.toString = function () {
     return `${this.name} : ${this.name}`
 }
-
-throw new UserException('Value too high')
-
+try {
+    throw new UserException('Value too high')
+} catch (e) { console.log(e) }
 function getMonthName(mo) {
     mo = mo - 1
     var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul",
