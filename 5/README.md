@@ -80,3 +80,28 @@
 조건 ? 값1 : 값2<br>
 조건이 true면 값1을 실행 아니면 값2를 실행<br>
 [js](7_operators.js)
+### 콤마 연산자
+두 피연산자를 비교하고, 마지막 피연산자의 값을 반환한다.<br>
+for문에서 주로 사용한다.<br>
+
+[js](8_operators.js)
+### 단항 연산자
+
+피연산자를 하나만 갖는 연산자<br>
+<ul>
+    <li>delete</li>
+    <li>typeof</li>
+    <li>void</li>
+</ul>
+
+[js](9_operators.js)
+### 관계 연산자
+
+피연산자를 하나만 갖는 연산자<br>
+<ul>
+    <li>in</li>
+    <li>instanceof</li>
+    <li>void</li>
+</ul>
+
+[js](10_operators.js)
