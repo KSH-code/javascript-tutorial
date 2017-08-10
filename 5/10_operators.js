@@ -19,3 +19,9 @@ console.log("PI" in Math)//t
 var obj={make:"Honda"}
 console.log("Honda" in obj)//f
 console.log("make" in obj)//true
+console.log()
+/**
+ * instanceof 연산자는 명시된 객체가 명쇠된 객체형인 경우 true
+ */
+var theDay=new Date(12)
+console.log(theDay instanceof Date)//t
