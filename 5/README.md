@@ -44,7 +44,11 @@
 [js](2_operators.js)
 ### 산술 연산자
 <ul>
-    <li>== 같은 3 == '3' true</li>
+    <li>% 나머지 연산자</li>
+    <li>++ 증가 연산자</li>
+    <li>-- 감소 연산자</li>
+    <li>- 단항 부정 연산자</li>
+    <li>+ 숫자화 연산자 연산자</li>
 </ul>
 
 [js](3_operators.js)
