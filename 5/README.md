@@ -63,3 +63,11 @@
 </ul>
 
 [js](4_operators.js)
+### 논리 연산자
+<ul>
+    <li>a&&b 논리 곱 둘 다 true면 true를 반환</li>
+    <li>a || b 논리 합 하나만 true면 true를 반환</li>
+    <li>!a true면 false로 false면 true를</li>
+</ul>
+
+[js](5_operators.js)
