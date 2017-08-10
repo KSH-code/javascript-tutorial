@@ -71,3 +71,12 @@
 </ul>
 
 [js](5_operators.js)
+### 문자열 연산자
+
+[js](6_operators.js)
+
+### 조건(삼항) 연산자
+
+조건 ? 값1 : 값2<br>
+조건이 true면 값1을 실행 아니면 값2를 실행<br>
+[js](7_operators.js)
