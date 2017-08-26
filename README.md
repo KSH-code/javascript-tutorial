@@ -1,6 +1,9 @@
 # javascript-tutorial
 자바스크립트 기초를 다질 예정
 
+## 2017-08-26 Object Model
+
+[공부 내용](./11/)
 ## 2017-08-25 Object and Work
 
 [공부 내용](./10/)
