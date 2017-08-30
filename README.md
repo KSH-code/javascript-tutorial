@@ -1,6 +1,9 @@
-# javascript-tutorial
+# javascript-tutorial MDN을 보고 공부함
 자바스크립트 기초를 다질 예정
 
+## 2017-08-30 Object oriented JS
+
+[공부 내용](./13/)
 ## 2017-08-27 Iterators and Generators
 
 [공부 내용](./12/)
