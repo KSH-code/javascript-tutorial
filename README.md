@@ -1,6 +1,9 @@
 # javascript-tutorial MDN을 보고 공부함
 자바스크립트 기초를 다질 예정
 
+## 2017-08-31 re introduction to js
+
+[공부 내용](./14/)
 ## 2017-08-30 Object oriented JS
 
 [공부 내용](./13/)
