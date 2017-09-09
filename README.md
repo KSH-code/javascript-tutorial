@@ -1,6 +1,9 @@
 # javascript-tutorial MDN을 보고 공부함
 자바스크립트 기초를 다질 예정
 
+## 2017-09-09 Stric mode
+
+[공부 내용](./17/)
 ## 2017-09-05 Inheritance and prototype chain
 
 [공부 내용](./16/)
