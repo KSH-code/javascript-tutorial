@@ -13,4 +13,4 @@ var obj2 = {
 }
 obj1.obj2 = obj2 //서로 참조하는 중이라 메모리 해제가 안 일어남.
 
-obj1.obj2 = null//참조를 끊어버리면 나중에 gc가 일어남
+obj1.obj2 = null //참조를 끊어버리면 나중에 gc가 일어남

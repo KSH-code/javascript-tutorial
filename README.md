@@ -1,6 +1,9 @@
 # javascript-tutorial MDN을 보고 공부함
 자바스크립트 기초를 다질 예정
 
+## 2017-09-25 Concurrency model and Event Loop
+
+[공부 내용](./20/)
 ## 2017-09-13 Memory ManageMent
 
 [공부 내용](./19/)
